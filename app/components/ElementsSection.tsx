@@ -107,7 +107,7 @@ export default function ElementsSection() {
               marginBottom: '1rem',
             }}
           >
-            6 Elemental Powers
+            Elemental Powers
           </h2>
           <div className="flex justify-center">
             <div
